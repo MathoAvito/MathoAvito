@@ -6,7 +6,7 @@
 
 - 🔭 I’m starting my way in the wonderful world of DevOps and looking for challenges.
 - 🌱 I’m currently learning everything :laughing: :laughing:
-- :desktop_computer: I'm passionate about PC Building and new technologies
+- :desktop_computer: I'm passionate about PC Building and new technologies.
 - ⚡ Fun fact: I love playing and listening to music!
 
 
@@ -36,11 +36,11 @@
 [![alt text][spotify.icon]][spotify]
 [![alt text][instagram.icon]][instagram]
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+<!-- <iframe src="https://giphy.com/embed/l2JhwdnrGvfnoXrzi" width="300" height="300" frameBorder="0" class="giphy-embed" align="right" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-pixel-8bit-l2JhwdnrGvfnoXrzi" ></a></p>
 
-<iframe src="https://giphy.com/embed/l2JhwdnrGvfnoXrzi" width="300" height="300" frameBorder="0" class="giphy-embed" align="right" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-pixel-8bit-l2JhwdnrGvfnoXrzi" ></a></p>
-
-<iframe src="https://giphy.com/embed/dalAKBkBak1S8" width="480" height="300" frameBorder="0" class="giphy-embed" align="left" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/corsairgaming-rgb-pc-rainbow-dalAKBkBak1S8"></a></p>
+<iframe src="https://giphy.com/embed/dalAKBkBak1S8" width="480" height="300" frameBorder="0" class="giphy-embed" align="left" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/corsairgaming-rgb-pc-rainbow-dalAKBkBak1S8"></a></p> -->
 
 <!-- icons with padding -->
 [linkedin.icon]: /assets/linkedin.png
