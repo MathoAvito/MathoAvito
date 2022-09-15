@@ -2,12 +2,12 @@
 
 ### Hi there, I am Matan 👋
 
-## I am a junior DevOps Enginee and a real Geek!
+## I am a junior DevOps Engineer and a real Geek!
 
 - 🔭 I’m starting my way in the wonderful world of DevOps and looking for challenges.
 - 🌱 I’m currently learning everything :laughing: :laughing:
 - :desktop_computer: I'm passionate about PC Building and new technologies.
-- :gear: I love 3D Printing
+- :gear: I love 3D Printing.
 - ⚡ Fun fact: I enjoy playing and listening to music!  
 <br/><br/>
 
