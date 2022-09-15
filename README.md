@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything :laughing: :laughing:
 - :desktop_computer: I'm passionate about PC Building and new technologies.
 - ⚡ Fun fact: I love playing and listening to music!  
+<br/><br/>
 
 ### Tools and Languages:
 ![Kubernetes][kubernetes.icon]
@@ -23,9 +24,7 @@
 ![Github][github.icon]
 ![Gitlab][gitlab.icon]
 ![Terraform][terraform.icon]
-
-
-
+<br/><br/>
 
 ### Connect with me:
 
