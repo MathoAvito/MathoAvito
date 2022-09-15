@@ -2,12 +2,13 @@
 
 ### Hi there, I am Matan 👋
 
-## I am a junior DevOps Engineer, 3D Printing Lover and a real Geek!
+## I am a junior DevOps Enginee and a real Geek!
 
 - 🔭 I’m starting my way in the wonderful world of DevOps and looking for challenges.
 - 🌱 I’m currently learning everything :laughing: :laughing:
 - :desktop_computer: I'm passionate about PC Building and new technologies.
-- ⚡ Fun fact: I love playing and listening to music!  
+- :gear: I love 3D Printing
+- ⚡ Fun fact: I enjoy playing and listening to music!  
 <br/><br/>
 
 ### Tools and Languages:
@@ -31,6 +32,7 @@
 [![alt text][linkedin.icon]][linkedin]
 [![alt text][spotify.icon]][spotify]
 [![alt text][instagram.icon]][instagram]
+[![alt text][gmail.icon]][gmail]
 
 <img src="assets/3dprinting.gif" width="300" height="300" align="right" />
 <img src="assets/pc.gif" width="480" height="300" align="left" />
@@ -43,6 +45,7 @@
 [linkedin.icon]: /assets/linkedin.png
 [spotify.icon]: /assets/spotify.png
 [instagram.icon]: /assets/instagram.png
+[gmail.icon]: /assets/gmail.png
 [kubernetes.icon]: /assets/kubernetes.png
 [docker.icon]: /assets/docker.png
 [python.icon]: /assets/python.png
@@ -61,3 +64,4 @@
 [linkedin]: https://linkedin.com/in/matan-avital
 [spotify]: https://open.spotify.com/user/vbl1z3x2ir2ox96ekku78322r?si=d641d6b72cfa4558
 [instagram]: https://www.instagram.com/3dmatho/
+[gmail]: mailto:matavital13@gmail.com
