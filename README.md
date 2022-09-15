@@ -7,13 +7,11 @@
 - 🔭 I’m starting my way in the wonderful world of DevOps and looking for challenges.
 - 🌱 I’m currently learning everything :laughing: :laughing:
 - :desktop_computer: I'm passionate about PC Building and new technologies.
-- ⚡ Fun fact: I love playing and listening to music!
-
+- ⚡ Fun fact: I love playing and listening to music!  
 
 ### Tools and Languages:
-
 ![Kubernetes][kubernetes.icon]
-<!-- ![Docker][docker.icon]
+![Docker][docker.icon]
 ![Python][python.icon]
 ![Bash][bash.icon]
 ![Jenkins][jenkins.icon]
@@ -25,8 +23,7 @@
 ![Github][github.icon]
 ![Gitlab][gitlab.icon]
 ![Terraform][terraform.icon]
-![Artifactory][artifactory.icon]
-![Artifactory][artifactory.icon] -->
+
 
 
 
@@ -36,19 +33,30 @@
 [![alt text][spotify.icon]][spotify]
 [![alt text][instagram.icon]][instagram]
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="assets/3dprinting.gif" width="300" height="300" align="right" />
+<img src="assets/pc.gif" width="480" height="300" align="left" />
 
 <!-- <iframe src="https://giphy.com/embed/l2JhwdnrGvfnoXrzi" width="300" height="300" frameBorder="0" class="giphy-embed" align="right" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d-pixel-8bit-l2JhwdnrGvfnoXrzi" ></a></p>
 
 <iframe src="https://giphy.com/embed/dalAKBkBak1S8" width="480" height="300" frameBorder="0" class="giphy-embed" align="left" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/corsairgaming-rgb-pc-rainbow-dalAKBkBak1S8"></a></p> -->
 
-<!-- icons with padding -->
+<!-- icons -->
 [linkedin.icon]: /assets/linkedin.png
 [spotify.icon]: /assets/spotify.png
 [instagram.icon]: /assets/instagram.png
 [kubernetes.icon]: /assets/kubernetes.png
-
-
+[docker.icon]: /assets/docker.png
+[python.icon]: /assets/python.png
+[bash.icon]: /assets/bash.png
+[jenkins.icon]: /assets/jenkins.png
+[ArgoCD.icon]: /assets/ArgoCD.png
+[maven.icon]: /assets/maven.png
+[aws.icon]: /assets/aws.png
+[gcp.icon]: /assets/gcp.png
+[git.icon]: /assets/git.png
+[github.icon]: /assets/github.png
+[gitlab.icon]: /assets/gitlab.png
+[terraform.icon]: /assets/terraform.png
 
 <!-- links to your social media accounts -->
 [linkedin]: https://linkedin.com/in/matan-avital
