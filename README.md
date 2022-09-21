@@ -4,8 +4,8 @@
 
 ## I am a junior DevOps Engineer and a real Geek!
 
-- 🔭 I’m starting my way in the wonderful world of DevOps and looking for challenges.
-- 🌱 I’m currently learning everything :laughing: :laughing:
+- 🔭 I’m starting my way in the amazing world of DevOps and looking for challenges.
+- 🌱 I’m currently learning everything :laughing:
 - :desktop_computer: I'm passionate about PC Building and new technologies.
 - :gear: I love 3D Printing.
 - ⚡ Fun fact: I enjoy playing and listening to music!  
@@ -29,10 +29,11 @@
 
 ### Connect with me:
 
-[![alt text][linkedin.icon]][linkedin]
-[![alt text][spotify.icon]][spotify]
-[![alt text][instagram.icon]][instagram]
-[![alt text][gmail.icon]][gmail]
+[![linkedin][linkedin.icon]][linkedin]
+[![spotify][spotify.icon]][spotify]
+[![instagram][instagram.icon]][instagram]
+[![gmail][gmail.icon]][gmail]
+[![cubee][cubee.icon]][cubee]
 
 <img src="assets/3dprinting.gif" width="300" height="300" align="right" />
 <img src="assets/pc.gif" width="480" height="300" align="left" />
@@ -46,6 +47,7 @@
 [spotify.icon]: /assets/spotify.png
 [instagram.icon]: /assets/instagram.png
 [gmail.icon]: /assets/gmail.png
+[cubee.icon]: /assets/cubee.png
 [kubernetes.icon]: /assets/kubernetes.png
 [docker.icon]: /assets/docker.png
 [python.icon]: /assets/python.png
@@ -65,3 +67,4 @@
 [spotify]: https://open.spotify.com/user/vbl1z3x2ir2ox96ekku78322r?si=d641d6b72cfa4558
 [instagram]: https://www.instagram.com/3dmatho/
 [gmail]: mailto:matavital13@gmail.com
+[cubee]: https://cubee3d.com/store/M3D
