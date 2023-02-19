@@ -2,7 +2,7 @@
 
 ### Hi there, I am Matan 👋
 
-## I am a junior DevOps Engineer and a real Geek!
+## I am a junior DevOps Engineer!
 
 - 🔭 I’m starting my way in the amazing world of DevOps and looking for challenges.
 - 🌱 I’m currently learning everything :laughing:
