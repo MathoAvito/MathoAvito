@@ -4,7 +4,7 @@
 
 ## I am a junior DevOps Engineer!
 
-- 🔭 I’m starting my way in the amazing world of DevOps and looking for challenges.
+- 🔭 I’m starting my way into the amazing world of DevOps and looking for challenges.
 - 🌱 I’m currently learning everything :laughing:
 - :desktop_computer: I'm passionate about PC Building and new technologies.
 - :gear: I love 3D Printing.
