@@ -1,56 +1,87 @@
-<!-- Profile Header -->
-<div style="display: flex; align-items: center; border-bottom: 1px solid #000; padding-bottom: 10px;">
-  <h1 style="flex: 1;">Hi there, I'm Matan 👋</h1>
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Mona the Octocat" width="50" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Matan
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Kubernetes+Enthusiast;Cloud+Native+Advocate;Tech+Explorer)](https://git.io/typing-svg)
+
+## 🚀 About Me
+I'm a DevOps Engineer passionate about building and optimizing cloud-native infrastructure. My journey involves bridging the gap between development and operations while exploring cutting-edge technologies.
+
+### 🎯 Current Focus
+- 🔨 Mastering Infrastructure as Code with Terraform
+- 🎮 Automating everything with GitHub Actions
+- ⛵ Navigating the Kubernetes ecosystem
+- 🌐 Exploring cloud-native architectures
+
+### 🎨 Hobbies & Interests
+- 💻 Building custom PCs and experimenting with hardware
+- 🖨️ Creating amazing things with 3D printing
+- 🎵 Music enthusiast - both playing and listening!
+
+## 🏆 Certifications & Achievements
+<div align="left">
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" height="100"/>
+  </a>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" height="100"/>
+  <!-- Add more certification badges here -->
 </div>
 
-<!-- Introduction -->
-## I am a DevOps Engineer
+- ✅ Certified Kubernetes Administrator (CKA)
+- ✅ GitHub Actions Certification
+- ✅ GitOps Fundamentals
+- ✅ GitOps at Scale
 
-- 🔭 Just beginning my journey into the exciting world of DevOps, and I'm eager for challenges!
-- 🌱 I’m currently learning...well, everything 😆
-- 💻 Passionate about PC building and new technologies.
-- ⚙️ I love 3D printing.
-- ⚡ Fun fact: I enjoy playing and listening to music!
+## 🛠️ Tech Stack
 
-<!-- Certifications -->
-## Certifications
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-- 🎓 Certified Kubernetes Administrator (CKA)
-- 🎓 GitOps Fundamentals
-- 🎓 GitOps On Scale
+### CI/CD & Version Control
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- Tools and Languages -->
-## Tools and Languages
+### Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-<p align="center">
-  <a href="https://kubernetes.io/" title="Kubernetes"><img src="assets/kubernetes.png" alt="Kubernetes" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="assets/docker.png" alt="Docker" width="50" height="50"/></a>
-  <a href="https://www.python.org/" title="Python"><img src="assets/python.png" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="assets/bash.png" alt="Bash" width="50" height="50"/></a>
-  <a href="https://www.jenkins.io/" title="Jenkins"><img src="assets/jenkins.png" alt="Jenkins" width="50" height="50"/></a>
-  <a href="https://argoproj.github.io/cd/" title="ArgoCD"><img src="assets/ArgoCD.png" alt="ArgoCD" width="50" height="50"/></a>
-  <a href="https://maven.apache.org/" title="Maven"><img src="assets/maven.png" alt="Maven" width="50" height="50"/></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img src="assets/aws.png" alt="AWS" width="50" height="50"/></a>
-  <a href="https://cloud.google.com/" title="GCP"><img src="assets/gcp.png" alt="GCP" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" title="Git"><img src="assets/git.png" alt="Git" width="50" height="50"/></a>
-  <a href="https://github.com/" title="GitHub"><img src="assets/github.png" alt="GitHub" width="50" height="50"/></a>
-  <a href="https://about.gitlab.com/" title="GitLab"><img src="assets/gitlab.png" alt="GitLab" width="50" height="50"/></a>
-  <a href="https://www.terraform.io/" title="Terraform"><img src="assets/terraform.png" alt="Terraform" width="50" height="50"/></a>
-</p>
+## 📊 GitHub Stats
 
-<!-- Connect with Me -->
-## Connect with me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/matan-avital" title="LinkedIn"><img src="assets/linkedin.png" alt="LinkedIn" width="50" height="50"/></a>
-  <a href="https://open.spotify.com/user/vbl1z3x2ir2ox96ekku78322r?si=d641d6b72cfa4558" title="Spotify"><img src="assets/spotify.png" alt="Spotify" width="50" height="50"/></a>
-  <a href="https://www.instagram.com/3dmatho/" title="Instagram"><img src="assets/instagram.png" alt="Instagram" width="50" height="50"/></a>
-  <a href="mailto:matavital13@gmail.com" title="Gmail"><img src="assets/gmail.png" alt="Gmail" width="50" height="50"/></a>
-  <a href="https://cubee3d.com/store/M3D" title="Cubee"><img src="assets/cubee.png" alt="Cubee" width="50" height="50"/></a>
-</p>
+## 🤝 Let's Connect!
 
-<!-- Showcase Image -->
-<p align="center">
-  <img src="assets/pc.gif" alt="PC Building" width="500" />
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/matan-avital">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://open.spotify.com/user/vbl1z3x2ir2ox96ekku78322r">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://www.instagram.com/3dmatho/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:matavital13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://cubee3d.com/store/M3D">
+    <img src="https://img.shields.io/badge/3D_Printing-FF4B4B?style=for-the-badge&logo=electron&logoColor=white" alt="3D Printing"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="assets/pc.gif" alt="PC Building" width="400" />
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
