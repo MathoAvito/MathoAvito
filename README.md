@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Matan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Kubernetes+Enthusiast;Cloud+Native+Advocate;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Tech+Explorer)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a DevOps Engineer passionate about building and optimizing cloud-native infrastructure. My journey involves bridging the gap between development and operations while exploring cutting-edge technologies.
