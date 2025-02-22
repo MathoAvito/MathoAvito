@@ -55,6 +55,7 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathoAvito&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathoAvito&theme=radical" alt="GitHub Streak" />
+  ![mathoavito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathoavito&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ## 🤝 Let's Connect!
