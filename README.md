@@ -21,14 +21,25 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
   <a href="https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator">
     <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="100" height="100"/>
   </a>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" height="100"/>
-  <!-- Add more certification badges here -->
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/org/codefresh/badge/gitops-fundamentals">
+    <img src="https://images.credly.com/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/org/codefresh/badge/gitops-at-scale">
+    <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="100" height="100"/>
+  </a>
+  <a href="https://www.credly.com/org/github/badge/github-actions-certified">
+    <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" height="100"/>
+  </a>
 </div>
 
 - ✅ Certified Kubernetes Administrator (CKA)
-- ✅ GitHub Actions Certification
+- ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
 - ✅ GitOps Fundamentals
 - ✅ GitOps at Scale
+- ✅ GitHub Actions Certification
 
 ## 🛠️ Tech Stack
 
@@ -49,13 +60,6 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathoAvito&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathoAvito&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Let's Connect!
 
