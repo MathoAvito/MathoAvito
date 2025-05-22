@@ -45,7 +45,7 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
 - ✅ GitOps at Scale
 - ✅ GitHub Actions Certification
 
-**🔗 My Credly Profile:** [Insert your Credly URL here](https://www.credly.com/users/matan-avital)
+**🔗 My Credly Profile:** [🎓](https://www.credly.com/users/matan-avital)
 
 ## 🛠️ Tech Stack
 
