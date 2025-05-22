@@ -24,6 +24,9 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
   </a>
+  <a href="https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-003">
+    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="100" height="100"/>
+  </a>
   <a href="https://www.credly.com/org/codefresh/badge/gitops-fundamentals">
     <img src="https://images.credly.com/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" width="100" height="100"/>
   </a>
@@ -37,9 +40,12 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
 
 - ✅ Certified Kubernetes Administrator (CKA)
 - ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
+- ✅ HashiCorp Certified: Terraform Associate (003)
 - ✅ GitOps Fundamentals
 - ✅ GitOps at Scale
 - ✅ GitHub Actions Certification
+
+**🔗 My Credly Profile:** [Insert your Credly URL here](https://www.credly.com/users/your-profile)
 
 ## 🛠️ Tech Stack
 
