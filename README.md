@@ -86,9 +86,6 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
   <a href="mailto:matavital13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://cubee3d.com/store/M3D">
-    <img src="https://img.shields.io/badge/3D_Printing-FF4B4B?style=for-the-badge&logo=electron&logoColor=white" alt="3D Printing"/>
-  </a>
 </div>
 
 <div align="center">
