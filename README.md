@@ -90,15 +90,6 @@ graph LR
 </tr>
 </table>
 
-## 🚀 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [**portfolio**](https://github.com/MathoAvito/portfolio) | Next.js portfolio — [matan.world](https://matan.world) |
-| [**dotfiles**](https://github.com/MathoAvito/dotfiles) | Ubuntu bootstrap & dev environment with chezmoi |
-| [**link-harbor**](https://github.com/MathoAvito/link-harbor) | Self-hosted dashboard for organizing web links |
-| [**aws-certifications**](https://github.com/MathoAvito/aws-certifications) | Hands-on labs and notes from AWS certification prep |
-
 ## 🎨 Beyond the terminal
 
 💻 Custom PC builds · 🖨️ 3D printing · 🎵 Music
