@@ -35,7 +35,7 @@ $ echo $FOCUS
 
 ## 🏆 Certifications
 
-<div align="left">
+<div align="center">
   <a href="https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator">
     <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="90" height="90" alt="CKA"/>
   </a>
@@ -78,14 +78,6 @@ $ echo $FOCUS
 
 **Languages** — Python · Shell · TypeScript · YAML
 
-```mermaid
-graph LR
-  A[Git] --> B[GitHub Actions]
-  B --> C[Argo CD]
-  C --> D[Kubernetes]
-  D --> E[AWS]
-```
-
 </td>
 </tr>
 </table>
@@ -100,10 +92,14 @@ graph LR
 
 ## 🤝 Connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matan-avital)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matavital13@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vbl1z3x2ir2ox96ekku78322r)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3dmatho/)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathoAvito/MathoAvito/output/github-contribution-grid-snake-dark.svg">
