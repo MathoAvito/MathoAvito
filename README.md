@@ -23,7 +23,7 @@ $ echo $FOCUS
 > Terraform · GitHub Actions · Kubernetes · cloud-native architectures
 ```
 
-## ✍️ Writing @ Develeap
+## ✍️ Writing
 
 | Article | Topics |
 | --- | --- |
