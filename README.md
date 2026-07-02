@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0891b2&height=170&section=header&text=Matan%20Avital&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%26%20Kubernetes%20%7C%20GitOps&descAlignY=58&descSize=16)
+<h1 align="center">Matan Avital</h1>
+<p align="center">
+  <strong>DevOps Engineer</strong> · AWS & Kubernetes · GitOps
+</p>
 
 ### Hi, I'm Matan 👋
 
@@ -62,7 +65,7 @@ $ echo $FOCUS
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=MathoAvito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=MathoAvito&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 
 </td>
 <td valign="top" width="50%">
