@@ -25,16 +25,16 @@ I'm a DevOps Engineer passionate about building and optimizing cloud-native infr
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
   </a>
   <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-professional">
-    <img src="https://images.credly.com/images/ea3eec65-b4ed-4a2a-b6e0-c0fdc7777a50/image.png" width="100" height="100"/>
+    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" height="100"/>
   </a>
   <a href="https://www.credly.com/org/hashicorp/badge/hashicorp-certified-terraform-associate-003">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="100" height="100"/>
+    <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" height="100"/>
   </a>
   <a href="https://www.credly.com/org/codefresh/badge/gitops-fundamentals">
-    <img src="https://images.credly.com/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" width="100" height="100"/>
+    <img src="https://images.credly.com/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" width="100" height="100"/>
   </a>
   <a href="https://www.credly.com/org/codefresh/badge/gitops-at-scale">
-    <img src="https://images.credly.com/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob" width="100" height="100"/>
+    <img src="https://images.credly.com/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" width="100" height="100"/>
   </a>
   <a href="https://www.credly.com/org/github/badge/github-actions-certified">
     <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" height="100"/>
