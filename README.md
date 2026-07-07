@@ -89,7 +89,7 @@ $ echo $FOCUS
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathoAvito&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats"/>
 </div>
 
 <picture>
