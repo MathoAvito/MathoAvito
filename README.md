@@ -59,17 +59,6 @@ $ echo $FOCUS
   </a>
 </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 📊 GitHub Activity
-
-<img src="https://streak-stats.demolab.com/?user=MathoAvito&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-</td>
-<td valign="top" width="50%">
-
 ### 🛠️ Stack
 
 **Cloud & Platform** — AWS · GCP · Kubernetes · Docker · Terraform
@@ -77,10 +66,6 @@ $ echo $FOCUS
 **CI/CD & GitOps** — GitHub Actions · Argo CD · Jenkins
 
 **Languages** — Python · Shell · TypeScript · YAML
-
-</td>
-</tr>
-</table>
 
 ## 🎨 Beyond the terminal
 
@@ -99,6 +84,12 @@ $ echo $FOCUS
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vbl1z3x2ir2ox96ekku78322r)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3dmatho/)
 
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathoAvito&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
 </div>
 
 <picture>
